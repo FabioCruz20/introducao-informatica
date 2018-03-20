@@ -17,4 +17,13 @@ Impressora: imprime (escreve, desenha) texto ou foto no papel.
 Periféricos de entrada e saída: Enviam dados para o computador e também recebem dados dele.
 Impressora multifuncional: faz função de impressora e scanner.
 Modem: usado para que um computador possa se conectar à internet por um cabo que não é compatível com o computador.
-Roteador: 
+
+Janela: área retangular que apresenta conteúdo além de ter título, botões -, +, x e menus.
+Barra de tarefas: fica na parte de baixo da tela. Exibe tarefas que estamos fazendo no momento. Cada retângulo largo que tem um ícone e uma frase é uma tarefa.
+
+Cada janela tem seus próprios botões -, +, x na parte de cima no lado direito dela.
+- : minimizar. Esconde a janela, mas ela continua existindo na barra de tarefas para retornarmos a janela depois.
++ : maximizar/desmaximizar. Faz uma janela de tamanho pequeno ocupar toda a tela, ou diminui o tamanho da janela que ocupa toda a tela.
+x : fechar. A janela some, até mesmo da barra de tarefas.
+
+
