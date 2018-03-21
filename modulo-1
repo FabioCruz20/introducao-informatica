@@ -1,22 +1,19 @@
 Computador: equipamento eletrônico usado para realizar muitas tarefas, como trabalhar, ouvir músicas, ver vídeos, se comunicar com outras pessoas, pesquisar, se entreter, etc.
+
 Hardware: nome que classifica toda a parte física (as peças) do computador.
+
 Processador: Cérebro do computador. Peça responsável por controlar o computador.
 Gabinete: Caixa metálica que armazena peças sensíveis e tem o botão de ligar o computador (um botão grande e redondo que fica na frente do gabinete).
 Placa-mãe: placa que conecta várias peças do computador. Comparando com o corpo humano, poderíamos pensar que ela é equivalente ao tronco.
+
+Periférico de entrada: usado para fornecer valores (dados) ao computador.
+Exemplo: teclado, mouse, microfone, scanner, joystick.
+
+Periférico de saída: usado para apresentar informações ao utilizador.
+Exemplo: monitor de vídeo, caixa de som, impressora.
+ 
 Software: programa de computador.
 Programa de computador: Coisas (“ferramentas”) usadas para realizar tarefas com o computador. Exemplo: usamos um navegador para acessar a Internet; usamos um editor de texto para escrever texto.
-Periféricos de entrada: equipamentos usados para enviar dados (letras/números, voz, imagem, etc.) para dentro do computador. Exemplos:
-Scanner: colocamos um papel (exemplo: foto, documento) dentro do scanner, e ele salva uma cópia desse papel dentro do computador.
-Webcam: filma e tira foto, além de ter microfone, em muitos casos. Usada por pessoas que querem conversar, mas estão distantes.
-Mouse: controla o cursor (seta), facilitando a interação com o computador.
-Teclado: usado para digitar texto e interagir com o computador.
-Microfone: usado para gravar voz no computador. Também pode ser usado para conversar com pessoas distantes.
-Periféricos de saída: equipamentos usados para apresentar informações às pessoas. Exemplos:
-Monitor de vídeo: Tela do computador. Exibe imagem.
-Impressora: imprime (escreve, desenha) texto ou foto no papel.
-Periféricos de entrada e saída: Enviam dados para o computador e também recebem dados dele.
-Impressora multifuncional: faz função de impressora e scanner.
-Modem: usado para que um computador possa se conectar à internet por um cabo que não é compatível com o computador.
 
 Janela: área retangular que apresenta conteúdo além de ter título, botões -, +, x e menus.
 Barra de tarefas: fica na parte de baixo da tela. Exibe tarefas que estamos fazendo no momento. Cada retângulo largo que tem um ícone e uma frase é uma tarefa.
@@ -25,5 +22,3 @@ Cada janela tem seus próprios botões -, +, x na parte de cima no lado direito 
 - : minimizar. Esconde a janela, mas ela continua existindo na barra de tarefas para retornarmos a janela depois.
 + : maximizar/desmaximizar. Faz uma janela de tamanho pequeno ocupar toda a tela, ou diminui o tamanho da janela que ocupa toda a tela.
 x : fechar. A janela some, até mesmo da barra de tarefas.
-
-
